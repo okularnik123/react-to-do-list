@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+.newItemDiv {
+  margin: 30px 10px;
+}
+.itemRow {
+  margin: 10px;
+}
+.completed {
+  color: #000000a6;
+  text-decoration: line-through;
+}
+.notCompleted {
+  color: #000;
+}
+.deleteBtn {
+  margin-left: 10px;
+}
